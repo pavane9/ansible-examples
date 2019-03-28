@@ -1,2 +1,2 @@
-[tomcat-servers]
-webserver1
+[test_env_1]
+172.42.2.114	ansible_user=user1
